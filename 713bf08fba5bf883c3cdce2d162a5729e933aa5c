@@ -1,0 +1,24 @@
+main.go
+  f728c7e54ef2a31e 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "713bf08fba5bf883c3cdce2d162a5729e933aa5c",
+  "prompts": {
+    "f728c7e54ef2a31e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d6719-8352-75c0-ac31-81c2aca47d11",
+        "model": "gpt-5.4"
+      },
+      "human_author": "pptfz",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 0,
+      "accepted_lines": 11,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/dbf3431005776fd5f73c9f63081854bbc0b1f62e3939aeb0f1e574e360296f91"
+    }
+  }
+}
