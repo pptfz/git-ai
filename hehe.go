@@ -1,4 +1,4 @@
-package calc
+package hehe
 
 func Add(a int, b int) int {
 	result := a
